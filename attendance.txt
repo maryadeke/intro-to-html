@@ -1,5 +1,6 @@
           mon tue wed thur fri
 gerald     *   *        *
 samson          *
-samantha
-jonathan
+samantha    *       *        *
+jonathan 
+monica       *    *       *

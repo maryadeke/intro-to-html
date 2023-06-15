@@ -2,3 +2,5 @@ gerald
 samson
 samantha
 jonathan
+mary
+okwera
